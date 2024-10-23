@@ -1,2 +1,2 @@
 /**** lecture complete ****/
-(MILESTONE 3) 13-6 Slider with bike using daisy ui Carousel - full
+(MILESTONE 3) 13-7 Create Latest Bikes grid and make it responsive - full
