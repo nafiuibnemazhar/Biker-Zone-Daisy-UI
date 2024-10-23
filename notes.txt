@@ -1,1 +1,2 @@
-lecture complete - 13-5 Custom font custom color and nav customization
+/**** lecture complete ****/
+(MILESTONE 3) 13-6 Slider with bike using daisy ui Carousel - full
