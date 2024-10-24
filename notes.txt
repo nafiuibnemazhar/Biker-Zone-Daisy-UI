@@ -1,2 +1,2 @@
 /**** lecture complete ****/
-(MILESTONE 3) 13-7 Create Latest Bikes grid and make it responsive - full
+(MILESTONE 3) 13-8 Happy clients section with custom card and ratings - full
